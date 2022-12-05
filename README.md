@@ -4,7 +4,9 @@ Typically a computer is given a set of instructions to execute to solve a specif
 
 ##Understanding Machine Learning
 Let us watch these videos to better understand the Machine Learning
+
 [Neural Networks](https://www.youtube.com/watch?v=bHvf7Tagt18)
+
 [Model Training](https://youtu.be/3BhkeY974Rg)
 
 ##Examples of using Machine Learning
