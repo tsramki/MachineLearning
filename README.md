@@ -18,6 +18,8 @@ Let us watch these videos to better understand the concepts in Machine Learning
 
 [Model Training](https://youtu.be/3BhkeY974Rg)
 
+[Model Training Exercise](https://teachablemachine.withgoogle.com/v1/)
+
 ## Examples of using Machine Learning
 
 Let us watch these screen recordings for seeing the examples of Machine Learning
