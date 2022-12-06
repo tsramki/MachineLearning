@@ -1,11 +1,18 @@
 # MachineLearning
 ## Introduction
 
-Typically a computer is given a set of instructions to execute to solve a specific problem.  Unlike this typical computer program, machine learning uses the data provided to learn and provide a solution using data samples.
+In classical programming, given a problem, you define a specific set of rules to solve the problem.  For example, if you want to identify if a shape is a circle or a square, you would write a program to detect corners and count them. If the program sees 4 corners, the shape is identified as a square.  If the program sees no corners, the shape is identified as a circle.
+
+Machine Learning is learning by examples. In Machine Learning, to identify a shape as a circle or a square, we provide the program many examples of circles and squares.  After the Machine has learnt from the examples given, if the machine is given a new image of a circle or square, one that it has not seen before, it should hopefully identify it correctly.
+
+Machine Learning is accomplished by a set of functions called algorithms.  Algorithm is considered as learning unit of the Machine Learning.  Similarly, neuron is the learning unit of the brain.  So, if neuron is a algorithm, then Neural Networks is a network of algorithms, output of one algorithm acting as input of another algorithm.
+
+Reference : https://www.freecodecamp.org/news/neural-networks-for-dummies-a-quick-intro-to-this-fascinating-field-795b1705104a/
+
 
 ## Understanding Machine Learning
 
-Let us watch these videos to better understand the Machine Learning
+Let us watch these videos to better understand the concepts in Machine Learning
 
 [Neural Networks](https://www.youtube.com/watch?v=bHvf7Tagt18)
 
@@ -13,6 +20,14 @@ Let us watch these videos to better understand the Machine Learning
 
 ## Examples of using Machine Learning
 
-- [Speech Pattern Recognition](https://doc-0o-34-docs.googleusercontent.com/docs/securesc/1693fij4psv7dflj6iorod2e9psktflo/57f32i2g9ks5q68tifi4rqi4rffivd39/1670217450000/03564927262939456138/03564927262939456138/1tBDeIk6NwLh0PBLGwKoizlkNY_N7-D6K?e=download&authuser=0)
-- [Text Pattern Recognition](https://doc-00-34-docs.googleusercontent.com/docs/securesc/1693fij4psv7dflj6iorod2e9psktflo/8ir94qjid7fb1vcojfc20vb1ljconsin/1670217450000/03564927262939456138/03564927262939456138/16fMIHi_4gN8yF0cF7fXCWDpNBj8hyO2f?e=download&authuser=0)
+Let us watch these screen recordings for seeing the examples of Machine Learning
 
+- [Speech Pattern Recognition](https://1drv.ms/u/s!Ak2-o17j_0K2pj0vZSMJnBpcTI_q?e=W6MYzI)
+
+- [Text Pattern Recognition](https://1drv.ms/v/s!Ak2-o17j_0K2pjdsGA9RKCs7KUq3?e=CUA6b6)
+
+# Try it out
+
+Let us have some fun doing some drawing
+
+https://quickdraw.withgoogle.com/
