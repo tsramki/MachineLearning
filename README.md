@@ -31,8 +31,6 @@ Let us watch the screen recording - [Text Pattern Recognition](https://1drv.ms/v
 
 #### Scratch programming
 
-<img src="https://github.com/tsramki/MachineLearning/blob/main/images/MainScreen.png?raw=true" alt="Main Screen" width="500" height="600">
-
 ![Main Screen](https://github.com/tsramki/MachineLearning/blob/main/images/MainScreen.png?raw=true)
 
 ![Science Club](https://github.com/tsramki/MachineLearning/blob/main/images/ScienceScreen.png?raw=true)
