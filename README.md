@@ -30,13 +30,16 @@ Let us watch the screen recording - [Text Pattern Recognition](https://1drv.ms/v
 
 
 #### Scratch programming
-![Main Screen](https://1drv.ms/u/s!Ak2-o17j_0K2pjqhbG0mjU7G8gW-?e=pWQ1zk)
 
-![Science Club](https://1drv.ms/u/s!Ak2-o17j_0K2pjkXNvzh1kR8FToS?e=U2v07r)
+<img src="https://github.com/tsramki/MachineLearning/blob/main/images/MainScreen.png?raw=true" alt="Main Screen" width="500" height="600">
 
-![Maths Club](https://1drv.ms/u/s!Ak2-o17j_0K2pjgxCh9pUz5bRQha?e=EbZyq7)
+![Main Screen](https://github.com/tsramki/MachineLearning/blob/main/images/MainScreen.png?raw=true)
 
-![Arts Club](https://1drv.ms/u/s!Ak2-o17j_0K2pjv14sSzjrZ2iFtX?e=lEgNXa)
+![Science Club](https://github.com/tsramki/MachineLearning/blob/main/images/ScienceScreen.png?raw=true)
+
+![Math Club](https://github.com/tsramki/MachineLearning/blob/main/images/MathsScreen.png?raw=true)
+
+![Arts Club](https://github.com/tsramki/MachineLearning/blob/main/images/ArtsScreen.png?raw=true)
 
 
 Let us watch these screen recordings for seeing the examples of Machine Learning
