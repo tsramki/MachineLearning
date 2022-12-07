@@ -40,9 +40,11 @@ Let us watch the screen recording - [Text Pattern Recognition](https://1drv.ms/v
 ![Arts Club](https://github.com/tsramki/MachineLearning/blob/main/images/ArtsScreen.png?raw=true)
 
 
-Let us watch these screen recordings for seeing the examples of Machine Learning
+### Speech Recognition
 
-- [Speech Pattern Recognition](https://1drv.ms/u/s!Ak2-o17j_0K2pj0vZSMJnBpcTI_q?e=W6MYzI)
+Let us watch these screen recording -[Speech Pattern Recognition](https://1drv.ms/u/s!Ak2-o17j_0K2pj0vZSMJnBpcTI_q?e=W6MYzI) to build a scratch program to recognize voice and perform an action.
+
+![Speech Reco Screen](https://github.com/tsramki/MachineLearning/blob/main/images/speechReco.png?raw=true)
 
 ## Try it out
 
