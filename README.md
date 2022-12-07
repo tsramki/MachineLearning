@@ -22,13 +22,28 @@ Let us watch these videos to better understand the concepts in Machine Learning
 
 ## Examples of using Machine Learning
 
+### Text Pattern Recognition
+
+We will use the [website](https://machinelearningforkids.co.uk/) for this exercise
+
+Let us watch the screen recording - [Text Pattern Recognition](https://1drv.ms/v/s!Ak2-o17j_0K2pjdsGA9RKCs7KUq3?e=CUA6b6) to build a scratch program to recommend a club based on our likes.
+
+
+#### Scratch programming
+![Main Screen](https://1drv.ms/u/s!Ak2-o17j_0K2pjqhbG0mjU7G8gW-?e=pWQ1zk)
+
+![Science Club](https://1drv.ms/u/s!Ak2-o17j_0K2pjkXNvzh1kR8FToS?e=U2v07r)
+
+![Maths Club](https://1drv.ms/u/s!Ak2-o17j_0K2pjgxCh9pUz5bRQha?e=EbZyq7)
+
+![Arts Club](https://1drv.ms/u/s!Ak2-o17j_0K2pjv14sSzjrZ2iFtX?e=lEgNXa)
+
+
 Let us watch these screen recordings for seeing the examples of Machine Learning
 
 - [Speech Pattern Recognition](https://1drv.ms/u/s!Ak2-o17j_0K2pj0vZSMJnBpcTI_q?e=W6MYzI)
 
-- [Text Pattern Recognition](https://1drv.ms/v/s!Ak2-o17j_0K2pjdsGA9RKCs7KUq3?e=CUA6b6)
-
-# Try it out
+## Try it out
 
 Let us have some fun doing some drawing
 
